@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background: linear-gradient(rgb(235, 140, 117), white)
+
+}
+.titleRed{
+  color: rgb(114, 1, 1);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 50px;
+}
+.image{
+  display: flex;
+  
+  width:400px;
+  height: 400px;
+ margin-left: 400px;
+
+
+
+}
