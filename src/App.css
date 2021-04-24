@@ -10,7 +10,7 @@
 }
 .image{
   display: flex;
-  
+  justify-content: space-between;
   width:400px;
   height: 400px;
  margin-left: 400px;
