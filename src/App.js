@@ -9,14 +9,14 @@ function App() {
 <div style={{ border:'solid 1px black',maxWidth:'100vw'}}/>
 
 <h1 className='titleRed'>Bennaceur Sirine</h1>
-<br/>
+<br />
 <div className='image'>
 <img src={LogoS} alt ='myLogo' />
 
-<br/>
+<br />
 
 <img src="/sirine.jpg" alt="myimage" />
-<br/>
+<br />
 </div>
 <video width="420" height="440" controls >
 <source src="/Skills.mp4" type="video/mp4"/>
