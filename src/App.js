@@ -18,7 +18,7 @@ function App() {
 <img src="/sirine.jpg" alt="myimage" />
 <br />
 </div>
-<video width="420" height="440" controls >
+<video style ={{width="420" height="440" }} controls >
 <source src="/Skills.mp4" type="video/mp4"/>
 </video>
 
